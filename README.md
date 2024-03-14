@@ -1,9 +1,11 @@
 # ML---simulate-human-action-on-PC
-
+---
 
 ### Names
 - Scalable Instructable Multiworld Agent (SIMA) a google research on performing actions on 3D game using 
 - Creating Human-like AI Movement in Games Using Imitation Learning (https://kth.diva-portal.org/smash/get/diva2:1120710/FULLTEXT01.pdf)
+
+---
 
 ### Feature: Auto Gem Mining Implementation
 
@@ -53,6 +55,8 @@
 **User Interface (Optional):**
 
 - Optionally, create a simple user interface to start and stop the automation process, adjust settings, and view logs.
+
+---
 
 ### To-Do List: Auto Gem Mining Feature Development
 
