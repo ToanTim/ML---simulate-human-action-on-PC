@@ -1,8 +1,10 @@
 # ML---simulate-human-action-on-PC
+
 ---
 
 ### Names
-- Scalable Instructable Multiworld Agent (SIMA) a google research on performing actions on 3D game using 
+
+- Scalable Instructable Multiworld Agent (SIMA) a google research on performing actions on 3D game using
 - Creating Human-like AI Movement in Games Using Imitation Learning (https://kth.diva-portal.org/smash/get/diva2:1120710/FULLTEXT01.pdf)
 
 ---
@@ -128,3 +130,19 @@
 14. **Maintenance and Support:**
     - Provide ongoing support for users, addressing any issues or bugs that arise.
     - Monitor the game for updates and make necessary adjustments to the script to maintain compatibility.
+
+---
+
+### Command
+
+- run this command to set up and activate VM for python
+
+```bash
+source  ./envSetup.sh
+```
+
+- run this command to deactivate VM
+
+```bash
+source ./envSetup.sh deactivate
+```
