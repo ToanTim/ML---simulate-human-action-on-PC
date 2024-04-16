@@ -64,7 +64,7 @@
 
 1. **Research and Setup:**
 
-   - Familiarize yourself with the game mechanics of "Rise of Kingdoms".
+   - Familiarize yourself with the game mechanics.
    - Install necessary tools and libraries such as Python, OpenCV, and PyAutoGUI.
    - Set up your development environment.
 
